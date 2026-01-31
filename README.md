@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my Master's Thesis
+- 🌱 I’m currently learning about Git
+- 💬 Ask me about Public Policies
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My brain is neurodivergent, which means I see patterns where others see noise. Perfect for data, systems, and problem-solving 🧠✨
